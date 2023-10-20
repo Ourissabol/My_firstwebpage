@@ -1,0 +1,119 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    background: #b3a4ac; /* background permet de changer la  couleur arriere plan */
+    display:flex; /* display flex permet de positonner le blox en ligne */
+    justify-content: center; /*  justify permet de centrer le blox */
+    gap: 30px; /*  gap permet d ' espacer les elements */
+
+}
+.navbar a{
+    text-decoration: none; /*  il permet d 'effacer le soulignement */
+    font-size: 30px; /*  il permet d' augmenter la taille de l' ecriture */
+    color: black; /*  il permet de changer la coleur du text */
+   
+
+}
+h2{
+    text-align: center;
+}
+form{
+    display: block;
+    justify-content: center;
+    margin-left: 500px;
+}
+.about{
+    background: #b3a4ac;
+    display: block;
+    justify-content:center ;
+    font-size: 21px;
+    color: aqua;
+    }
+
+.Mywork{
+background-color: green;
+
+
+    
+}
+.description  {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+
+}
+#contact p{
+ text-align: center;
+}
+
+.description p{
+    width:40%;
+}
+#resume{
+  display: flex; 
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#work{
+    display: block;
+    color:yellow;
+}
